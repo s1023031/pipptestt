@@ -1,0 +1,7 @@
+setup.py
+pipptestt/__init__.py
+pipptestt.egg-info/PKG-INFO
+pipptestt.egg-info/SOURCES.txt
+pipptestt.egg-info/dependency_links.txt
+pipptestt.egg-info/not-zip-safe
+pipptestt.egg-info/top_level.txt

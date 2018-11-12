@@ -6,6 +6,5 @@ setup(name='pipptestt',
       author='Aileene',
       author_email='doremonyun0120@gmail.com',
       license='MIT',
-      packages=['pipptestt','filter'],
+      packages=['pipptestt'],
       zip_safe=False)
---------------------- 
